@@ -4,7 +4,8 @@ This is the official implementation of our paper 'Cert-SSB: Toward Certified Sam
 
 Pipeline
 -
-![image](https://github.com/user-attachments/assets/3cf55f2d-3673-44fa-b09d-52e6aaee26b4)
+![image](<img width="1284" height="370" alt="image" src="https://github.com/user-attachments/assets/87aee5dd-6a12-43b2-9414-5260260e44e9" />
+)
 
 Reproducibilty Statement
 -
