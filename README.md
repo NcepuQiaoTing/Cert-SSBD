@@ -3,8 +3,7 @@
 This is the official implementation of our paper 'Cert-SSB: Toward Certified Sample-Specific Backdoor Defense'. This research project is developed based on Python 3.8 and Pytorch, created by [Ting Qiao](https://github.com/NcepuQiaoTing) and [Yiming Li](https://liyiming.tech/).
 
 Pipeline
-
-![image]([MAIN_SSBD_final3.pdf](https://github.com/user-attachments/files/24613401/MAIN_SSBD_final3.pdf)
+<img width="1282" height="372" alt="image" src="https://github.com/user-attachments/assets/373fb8fb-fd8d-414b-9be5-ca52e23bcc5e" />
 
 
 
