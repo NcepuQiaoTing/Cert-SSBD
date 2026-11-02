@@ -21,8 +21,6 @@ If our work or this repo is useful for your research, please cite our paper as f
   pages   = {2446--2461},
   year    = {2026}
 }
-
-
 ```
 
 Reproducibilty Statement
