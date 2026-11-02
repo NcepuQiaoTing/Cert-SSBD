@@ -7,7 +7,23 @@ Pipeline
 
 <img width="1282" height="372" alt="image" src="https://github.com/user-attachments/assets/373fb8fb-fd8d-414b-9be5-ca52e23bcc5e" />
 
+Reference
+-
 
+If our work or this repo is useful for your research, please cite our paper as follows:
+
+```
+@article{qiao2026cert,
+  title   = {Cert-SSBD: Certified Backdoor Defense With Sample-Specific Smoothing Noises},
+  author  = {Qiao, Ting and Wang, Yingjia and Liu, Xing and Wu, Sixing and Li, Jianbin and Li, Yiming},
+  journal = {IEEE Transactions on Information Forensics and Security},
+  volume  = {21},
+  pages   = {2446--2461},
+  year    = {2026}
+}
+
+
+```
 
 Reproducibilty Statement
 -
